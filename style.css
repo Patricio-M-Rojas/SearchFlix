@@ -18,3 +18,9 @@ heeder{
     border-bottom: solid 3px white;
     padding: 20px;
 }
+.chamada-texto{
+    margin-right: 5%;
+}
+h1{
+    font-size: 35px;
+}
