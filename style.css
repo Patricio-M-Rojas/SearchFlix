@@ -6,7 +6,7 @@ body{
     margin-bottom: 100px;
 }
 .chamada{
-    background: rgb(128, 8, 8);
+    background: hsl(0, 88%, 27%);
     margin-top: 80px;
     margin-bottom: 80px;
     display: flex;
@@ -38,4 +38,8 @@ h1{
 .categoria-videos img{
     height: 200px;
     opacity: 0,5;
+}
+.categoria-videos img:hover{
+    opacity: 1.0;
+    border: 3px solid hsl(0, 88%, 27%);
 }
